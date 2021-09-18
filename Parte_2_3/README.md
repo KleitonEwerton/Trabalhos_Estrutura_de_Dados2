@@ -3,13 +3,14 @@
 ## Descrição
 
 Algoritmo que lê dois arquivos .csv e os salva em arquivos binários. Com os arquivos criados é possível exportar 10 registros aleatórios em terminal ou 100 registros aleatórios em arquivo.
+Dataset disponíveis em: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks.
 
 ## Equipe
 
 Ágata Meireles Carvalho,
 Kleiton Ewerton de Oliveira,
 Nikolas Oliver Sales Genesio,
-Vinícius Souza Almeida
+Vinícius Souza Almeida.
 
 
 ## Pré-requisito
