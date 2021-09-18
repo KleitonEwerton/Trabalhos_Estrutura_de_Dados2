@@ -1,0 +1,19 @@
+cmake_minimum_required(VERSION 3.16.3)
+
+#Nome no projeto
+project(strings.exe)
+
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_FLAGS "-g")
+#pastas de arquivos src
+file(GLOB SOURCES
+
+    sources/*.cpp
+    
+)
+
+add_executable(strings.exe ${SOURCES})
+
+#pasta dos arquivos headers
+target_include_directories(strings.exe PUBLIC ${CMAKE_CURRENT_SOURCE_DIR} / headers)
+

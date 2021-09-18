@@ -1,0 +1,6 @@
+O primeiro parâmento de cada linha representa o tamanho total dos dados, e o segundo parâmetro o numero de conjuntos
+1000,3
+5000,3
+10000,3
+50000,3
+80000,3
